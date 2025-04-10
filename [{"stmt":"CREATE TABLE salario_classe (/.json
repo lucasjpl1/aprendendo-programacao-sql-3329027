@@ -1,0 +1,7 @@
+[
+  {
+    "stmt": "CREATE TABLE salario_classe (\nid integer primary key autoincrement,\nnivel text,\nsalario integer\n);",
+    "header": [],
+    "rows": []
+  }
+]
